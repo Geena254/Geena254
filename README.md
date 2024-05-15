@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Georgina Kimani</h1>
 <h3 align="center">A passionate Frontend Developer from Kenya</h3>
 
