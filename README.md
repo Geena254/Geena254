@@ -2,13 +2,13 @@
 Hi 👋 My name is Georgina Kimani
 =============================
 
-Software Engineer and Graphics Designer
+Software Engineer and UI/UX Designer
 ----------------------------
 
-I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, React, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
 
 * 🌍  I'm based in Kilifi, Kenya
-* 🖥️  See my blog at [hashnode](https://sophiaintech.hashnode.dev/)
+* 🖥️  See my blog at coming soon!!
 * ✉️  You can contact me at [njokikimani001@gmail.com](mailto:njokikimani001@gmail.com)
 * 🚀  I'm currently working towards being a full-stack engineer.
 * 🧠  I'm learning as many things as I can about software engineering.
