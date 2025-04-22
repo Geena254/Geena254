@@ -1,49 +1,59 @@
-# Hi 👋 I'm Georgina Kimani
+# 👋 Hey there, I'm Georgina Kimani
 
-### 💻 Full-Stack Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast
-
-I'm a passionate software engineer based in Kilifi, Kenya, building modern, scalable web applications and seamless user experiences. I specialize in crafting full-stack solutions using **React**, **Python**, **Django**, **PostgreSQL**, and **TailwindCSS**.
-
-With a strong foundation in both frontend and backend technologies, I enjoy solving real-world problems, creating intuitive UIs, and writing clean, maintainable code. I'm also continuously learning and collaborating on projects that make a positive impact.
+**Full-Stack Developer** | **UI/UX Designer** | **Problem Solver**  
+📍 Based in Kilifi, Kenya
 
 ---
 
-### 💼 Tech Stack
+### 🛠️ What I Do
 
-**Languages & Frameworks**
-- React | Next.js | JavaScript | TypeScript | Python | C | HTML | CSS
-- Django | TailwindCSS | Bootstrap
-
-**Databases**
-- PostgreSQL | MySQL | MongoDB
-
-**Tools & Others**
-- Git & GitHub | VS Code | Figma | REST APIs | CI/CD | Linux | Agile | UI/UX Design
+I build full-stack web applications that are fast, responsive, and user-friendly.  
+From sleek frontends with **React** to powerful backends with **Django**, I turn ideas into digital reality.
 
 ---
 
-### 📌 Current Goals
-- 🔭 Building and deploying full-stack web apps
-- 🧠 Exploring system design and architecture
-- 💡 Learning DevOps best practices
+### ⚡ Tech Stack
+
+**Frontend**  
+React, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Bootstrap
+
+**Backend**  
+Python, Django, FastAPI, REST APIs, Express.js
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB, Redis
+
+**Tools**  
+Git & GitHub, Figma, VS Code, Linux, Agile, UI/UX
+System design and cloud deployment (AWS, Docker)
+---
+
+### 🚀 Current Focus
+
+- Building real-world full-stack apps and SaaS tools 
+- Learning Cybersecurity and DevOps
+- Growing my developer brand on GitHub & LinkedIn
 
 ---
 
-### 🤝 Let’s Connect!
-- 📧 [njokikimani001@gmail.com](mailto:njokikimani001@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/georgina-kimani)
-- 🐙 [GitHub](https://github.com/Geena254)
-- 🐦 [Twitter](https://twitter.com/KimaniSWE_)
+### 📫 Let's Connect
+
+[🌐 Portfolio](https://georginadev.verecl.app)  
+[📧 Email](mailto:njokikimani001@gmail.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/georgina-kimani)  
+[🐙 GitHub](https://github.com/Geena254)  
+[🐦 Twitter](https://twitter.com/KimaniSWE)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Geena254's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geena254&show_icons=true&theme=radical)
-![Geena254's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geena254&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geena254&layout=compact&theme=radical)
+![Geena254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geena254&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geena254&layout=compact&theme=tokyonight)
 
 ---
+
+> “Code is the closest thing we have to magic.” ✨
 
 > 💬 *"I'm secretly Cat Woman… but shh, don’t tell anyone."*
 
