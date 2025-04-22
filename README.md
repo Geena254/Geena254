@@ -23,9 +23,10 @@ Python, Django, FastAPI, REST APIs, Express.js
 **Databases**  
 PostgreSQL, MySQL, MongoDB, Redis
 
-**Tools**  
+**Tools**
 Git & GitHub, Figma, VS Code, Linux, Agile, UI/UX
 System design and cloud deployment (AWS, Docker)
+
 ---
 
 ### 🚀 Current Focus
