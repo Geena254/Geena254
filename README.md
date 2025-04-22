@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Georgina Kimani
 
 **Full-Stack Developer** | **UI/UX Designer** | **Problem Solver**  
-📍 Based in Kilifi, Kenya
+📍 Based in Kenya.
 
 ---
 
@@ -43,13 +43,6 @@ System design and cloud deployment (AWS, Docker)
 [💼 LinkedIn](https://www.linkedin.com/in/georgina-kimani)  
 [🐙 GitHub](https://github.com/Geena254)  
 [🐦 Twitter](https://twitter.com/KimaniSWE)
-
----
-
-### 📈 GitHub Stats
-
-![Geena254's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geena254&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geena254&layout=compact&theme=tokyonight)
 
 ---
 
